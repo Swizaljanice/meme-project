@@ -1,0 +1,24 @@
+*{
+    background-color:black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: Libre Baskerville ;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: full-width;
+    font-size: 350%;
+}
+.motivation-img{
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    border: 5px solid white;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
